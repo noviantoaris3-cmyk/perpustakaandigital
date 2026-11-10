@@ -13,3 +13,7 @@ Berikut ini adalah koleksi yang dimiliki :
 9. [Alice's Adventures in Wonderland](ebook/Alice's%20Adventures%20in%20Wonderland.pdf) - Lewis Carroll (2008)
 10. [sun also rises](ebook/sun%20also%20rises.pdf) - Ernest Hemingway (1926)
 11. [Rangkuman UGC](ebook/Rangkuman%20UGC.pdf) - Aris Dwi Novianto
+
+Aris Dwi Novianto (13040124140164) Kelas D
+---
+Powered by GitHub Pages
