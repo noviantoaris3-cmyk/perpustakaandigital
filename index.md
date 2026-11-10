@@ -7,7 +7,7 @@ Berikut ini adalah koleksi yang dimiliki :
 3. [Warez](ebook/Warez.pdf) - Martin Paul Eve (2021)
 4. [Research Ethics For Students](ebook/Research%20Ethics%20For%20Students.pdf) - Jaap Bos (2020)
 5. [Think Python](ebook/Think%20Python.PDF) - Allen Downi (2020)
-6. [A Tale of Two Cities](ebook/A%20Tale%20of%20Two%20Cities.pdf) - Charles Dakens (1994)
+6. [A Tale of Two Cities](ebook/A%20Tale%20of%20Two%20Cities.PDF) - Charles Dakens (1994)
 7. [Dracula](ebook/Dracula.PDF) - Bram Stoker (1995)
 8. [The Adventures of Sherlock Holmes](ebook/The%20Adventures%20of%20Sherlock%20Holmes.PDF) - Arthur Conan Doyle (1999)
 9. [Alice's Adventures in Wonderland](ebook/Alice's%20Adventures%20in%20Wonderland.PDF) - Lewis Carroll (2008)
